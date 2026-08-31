@@ -1,0 +1,67 @@
+.elementor-3 .elementor-element.elementor-element-56f01e7{--display:flex;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );text-transform:var( --e-global-typography-text-text-transform );font-style:var( --e-global-typography-text-font-style );text-decoration:var( --e-global-typography-text-text-decoration );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-3 .elementor-element.elementor-element-4f33d87{font-family:"Nugros", Sans-serif;font-size:16px;font-weight:normal;text-transform:none;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;}body.elementor-page-3:not(.elementor-motion-effects-element-type-background), body.elementor-page-3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}@media(max-width:1024px){.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );}.elementor-3 .elementor-element.elementor-element-4f33d87{font-size:14px;}}@media(max-width:767px){.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );letter-spacing:var( --e-global-typography-text-letter-spacing );}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-Regular.eot');
+	src: url('../../2025/06/Nugros-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-Regular.woff2') format('woff2'),
+		url('../../2025/06/Nugros-Regular.woff') format('woff'),
+		url('../../2025/06/Nugros-Regular-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-Bold.eot');
+	src: url('../../2025/06/Nugros-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-Bold.woff2') format('woff2'),
+		url('../../2025/06/Nugros-Bold.woff') format('woff'),
+		url('../../2025/06/Nugros-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-Medium.eot');
+	src: url('../../2025/06/Nugros-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-Medium.woff2') format('woff2'),
+		url('../../2025/06/Nugros-Medium.woff') format('woff'),
+		url('../../2025/06/Nugros-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-SemiBold.eot');
+	src: url('../../2025/06/Nugros-SemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-SemiBold.woff2') format('woff2'),
+		url('../../2025/06/Nugros-SemiBold.woff') format('woff'),
+		url('../../2025/06/Nugros-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-ExtraBold.eot');
+	src: url('../../2025/06/Nugros-ExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-ExtraBold.woff2') format('woff2'),
+		url('../../2025/06/Nugros-ExtraBold.woff') format('woff'),
+		url('../../2025/06/Nugros-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nugros';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2025/06/Nugros-Black.eot');
+	src: url('../../2025/06/Nugros-Blackd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2025/06/Nugros-Black.woff2') format('woff2'),
+		url('../../2025/06/Nugros-Black.woff') format('woff'),
+		url('../../2025/06/Nugros-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
